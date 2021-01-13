@@ -54,5 +54,23 @@ function checkPhone(){
   <input type="text" disabled="disabled" style="border:0px ; background-color: #fff" value="//g 最后加g是为了全局匹配就会变成数组,不加只能匹配到第一个"></br>
   <input type="text" disabled="disabled" style="border:0px ; background-color: #fff" value="/biao.+/ 能够匹配biao和后面的所有字符 /.+biao/ 以biao结尾的所有字符"></br>
   <input type="text" disabled="disabled" style="border:0px ; background-color: #fff" value="/[\u4e00-\u9fa5]/ 匹配中文字符"></br>
+  ------------------------------
+  <input type="text" disabled="disabled" style="border:0px ; background-color: #fff" value="?可以匹配0个或者1个前面的字符"></br>
+  <input type="text" disabled="disabled" style="border:0px ; background-color: #fff" value="*可以匹配0个或者多个前面的字符"></br>
+  <input type="text" disabled="disabled" style="border:0px ; background-color: #fff" value="+可以匹配1个以上前面的字符"></br>
+  <input type="text" disabled="disabled" style="border:0px ; background-color: #fff" value="{6}可以匹配6个前面的字符，{2,6}2到6之间，{2,}2以上"></br>
+  <h4>以上都是匹配前面一个字符串的，如果要匹配前面多个字符串的可以用下面的</h4>
+  <input type="text" disabled="disabled" style="border:0px ; background-color: #fff" value="(ab)+c可以匹配ab这两个字符1个以上前面的2个字符"></br>
+  -------------------------------------
+  <input type="text" disabled="disabled" style="border:0px ; background-color: #fff" value="^[]除这个方括号以外所有的"></br>
+  <input type="text" disabled="disabled" style="border:0px ; background-color: #fff" value="\d代表数字字符"></br>
+  <input type="text" disabled="disabled" style="border:0px ; background-color: #fff" value="\D代表非数字字符"></br>
+  <input type="text" disabled="disabled" style="border:0px ; background-color: #fff" value="\s所有的空白符"></br>
+  <input type="text" disabled="disabled" style="border:0px ; background-color: #fff" value="\S代表非空字符"></br>
+  <input type="text" disabled="disabled" style="border:0px ; background-color: #fff" value="\w代表英文、数字、上下划线"></br>
+  <input type="text" disabled="disabled" style="border:0px ; background-color: #fff" value="\W代表非单词字符"></br>
+  <input type="text" disabled="disabled" style="border:0px ; background-color: #fff" value="\W代表非单词字符"></br>
+  <input type="text" disabled="disabled" style="border:0px ; background-color: #fff" value="\b代表这个字符 结束"></br>
+  <input type="text" disabled="disabled" style="border:0px ; background-color: #fff" value="\.代表只匹配英文句点，因为句点是元字符代表任意字符所以前面要加反斜杠做转义"></br>
 </body>
 </html>
