@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0df0c4"],{"87f5":function(e,n,t){"use strict";t.r(n);var c=function(){var e=this,n=e.$createElement;e._self._c;return e._m(0)},r=[function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",[t("h4",[e._v("商品详情")])])}],u={name:"SuperMarketGoodsFindId"},a=u,d=t("5d22"),s=Object(d["a"])(a,c,r,!1,null,"7746c5d6",null);n["default"]=s.exports}}]);
+//# sourceMappingURL=chunk-2d0df0c4.c8df53e6.js.map
