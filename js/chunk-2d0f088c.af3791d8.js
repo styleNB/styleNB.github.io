@@ -1,2 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0f088c"],{"9d7b":function(n,t,e){"use strict";e.r(t);var o=function(){var n=this,t=n.$createElement,e=n._self._c||t;return e("LayoutBox",{attrs:{one:"当前区域下的商品"}})},a=[],c=e("1b00"),u={components:{LayoutBox:c["a"]}},s=u,r=e("5d22"),f=Object(r["a"])(s,o,a,!1,null,"36ffaa26",null);t["default"]=f.exports}}]);
-//# sourceMappingURL=chunk-2d0f088c.af3791d8.js.map
