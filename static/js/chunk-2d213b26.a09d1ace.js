@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d213b26"],{ae7c:function(e,n,c){"use strict";c.r(n);var a=function(){var e=this,n=e.$createElement,c=e._self._c||n;return c("div",[e._v("小程序配置")])},t=[],l={name:"small_config"},s=l,u=c("4ac2"),i=Object(u["a"])(s,a,t,!1,null,"43993ed8",null);n["default"]=i.exports}}]);
