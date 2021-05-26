@@ -1,1 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d217b0a"],{c898:function(n,e,c){"use strict";c.r(e);var t=function(){var n=this,e=n.$createElement,c=n._self._c||e;return c("div",[n._v("系统配置")])},a=[],s={name:"system_config"},u=s,i=c("4ac2"),o=Object(i["a"])(u,t,a,!1,null,"459f2595",null);e["default"]=o.exports}}]);
